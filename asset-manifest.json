@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/the-game-candy-crush/static/css/main.7b6cbd1a.chunk.css",
+    "main.js": "/the-game-candy-crush/static/js/main.060b32f8.chunk.js",
+    "main.js.map": "/the-game-candy-crush/static/js/main.060b32f8.chunk.js.map",
+    "runtime-main.js": "/the-game-candy-crush/static/js/runtime-main.ee3d7973.js",
+    "runtime-main.js.map": "/the-game-candy-crush/static/js/runtime-main.ee3d7973.js.map",
+    "static/js/2.4490a7a4.chunk.js": "/the-game-candy-crush/static/js/2.4490a7a4.chunk.js",
+    "static/js/2.4490a7a4.chunk.js.map": "/the-game-candy-crush/static/js/2.4490a7a4.chunk.js.map",
+    "index.html": "/the-game-candy-crush/index.html",
+    "static/css/main.7b6cbd1a.chunk.css.map": "/the-game-candy-crush/static/css/main.7b6cbd1a.chunk.css.map",
+    "static/js/2.4490a7a4.chunk.js.LICENSE.txt": "/the-game-candy-crush/static/js/2.4490a7a4.chunk.js.LICENSE.txt",
+    "static/media/blank.9e86d05b.png": "/the-game-candy-crush/static/media/blank.9e86d05b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee3d7973.js",
+    "static/js/2.4490a7a4.chunk.js",
+    "static/css/main.7b6cbd1a.chunk.css",
+    "static/js/main.060b32f8.chunk.js"
+  ]
+}
